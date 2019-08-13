@@ -1,0 +1,17 @@
+[
+	{"key":"aaaaaaaaaaaaaaaa", "value":99},
+	{"key":"bbbbbbbbbbbbbbbbb", "value":78},
+	{"key":"ccccccccccccccccc", "value":77},
+	{"key":"ddddddddddddddddd", "value":64},
+	{"key":"eeeeeeeeeeeeeeee", "value":35},
+	{"key":"ffffffffffffffff", "value":33},
+	{"key":"ggggggggggggggg", "value":29},
+	{"key":"hhhhhhhhhhhhhhhh", "value":28},
+	{"key":"iiiiiiiiiiiiiiii", "value":25},
+	{"key":"jjjjjjjjjjjjjjjj", "value":21},
+	{"key":"kkkkkkkkkkkkkkkkk", "value":19},
+	{"key":"lllllllllllllllll", "value":18},
+	{"key":"mmmmmmmmmmmmmmmmm", "value":15},
+	{"key":"nnnnnnnnnnnnnnnnnn", "value":14},
+	{"key":"oooooooooooooooooo", "value":11}
+]
